@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ <!--
 # Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -10,10 +11,10 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <!--
+ 
   //깃헙 레포 사용 언어 수
-https://img.shields.io/github/languages/count/beygee/survive -->
-<!--
+https://img.shields.io/github/languages/count/beygee/survive
+
 **Snug-gle/Snug-gle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
