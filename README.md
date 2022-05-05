@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Skills
+https://img.shields.io/badge/<MESSAGE>-<yellow>
+https://img.shields.io/badge/Spring-<green>
+https://img.shields.io/static/v1?label=<MESSAGE>&color=<yellow>
+https://img.shields.io/static/v1?label=Spring&color=<green>
+  
+  //깃헙 레포 사용 언어 수
+https://img.shields.io/github/languages/count/beygee/survive 
 <!--
 **Snug-gle/Snug-gle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
