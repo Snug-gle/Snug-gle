@@ -1,5 +1,7 @@
 # Hi, I'm Sanghoon.
 
+> Better code is never built alone — Upstream First.
+
 **Full-stack Developer** | Java/Spring + React/TypeScript
 Based in Korea
 
