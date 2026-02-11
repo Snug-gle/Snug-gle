@@ -1,22 +1,26 @@
-# Hi, I'm Sanghoon.
+# 안녕하세요, Sanghoon입니다.
 
 > Better code is never built alone — Upstream First.
 
-**Full-stack Developer** | Java/Spring + React/TypeScript
-Based in Korea
+**풀스택 개발자** | Java/Spring + React/TypeScript
+
+[![블로그](https://img.shields.io/badge/블로그-snug--gle.github.io-blue?style=flat-square)](https://snug-gle.github.io)
 
 ---
 
-## Currently Focused On
+## 프로젝트
 
-- **[LinkWave](https://snug-gle.github.io/project/active/linkwave-project-summary)** - 멀티채널 메시징 플랫폼 (CQRS, JWT+RTR, Multi-tenant)
-- **[Rally-Point](https://snug-gle.github.io/project/active/rally-point/architecture)** - MSA 테니스 매칭 플랫폼 (Kafka, Redis, Elasticsearch)
-- **[InvestFlow](https://snug-gle.github.io/project/active/investFlow)** - 주식 분석 플랫폼 (Blue-Green, Raspberry Pi)
-- **[Journey Continues](https://snug-gle.github.io)** - 개발 블로그 (Quartz + Obsidian)
+**진행 중**
+- **[LinkWave](https://snug-gle.github.io/project/active/linkwave-project-summary)** — 멀티채널 메시징 플랫폼 (CQRS, JWT+RTR, Multi-tenant)
+
+**예정**
+- **[Rally-Point](https://snug-gle.github.io/project/active/rally-point/architecture)** — MSA 테니스 매칭 플랫폼 (Kafka, Redis, Elasticsearch)
+- **[InvestFlow](https://snug-gle.github.io/project/active/investFlow)** — 주식 분석 플랫폼 (Blue-Green, Raspberry Pi)
+- **[Journey Continues](https://snug-gle.github.io)** — 개발 블로그 (Quartz + Obsidian)
 
 ---
 
-## Tech Stack
+## 기술 스택
 
 **Backend**
 
@@ -48,9 +52,9 @@ Based in Korea
 
 ## Upstream First
 
-> I'm not only a user of open-source tools - I aim to **contribute back**.
+> 오픈소스 도구를 쓰는 것에 그치지 않고, 기여하는 개발자가 되고자 합니다.
 
-Watching:
+관심 프로젝트:
 [spring-ai](https://github.com/spring-projects/spring-ai) |
 [react](https://github.com/facebook/react) |
 [vite](https://github.com/vitejs/vite) |
@@ -58,14 +62,14 @@ Watching:
 
 ---
 
-## Now Playing
+## 지금 듣는 음악
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316dfssbbkmggu4r57p2jtq3mm5i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316dfssbbkmggu4r57p2jtq3mm5i&redirect=true)
 
 ---
 
-## Fun Facts
+## 이런 사람입니다
 
-- Writes tech notes in Korean on [snug-gle.github.io](https://snug-gle.github.io)
-- Plays tennis when not coding
-- Believes in measuring, improving, and documenting
+- 배운 것을 [블로그](https://snug-gle.github.io)에 한국어로 기록합니다
+- 코딩 외 시간에는 테니스를 칩니다 — 그래서 매칭 플랫폼도 만들었습니다
+- 측정하고, 개선하고, 문서화하는 과정을 중요하게 생각합니다
